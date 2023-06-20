@@ -6,7 +6,7 @@ sites:
   - name: Cond.dk
     url: https://www.cond.dk
   - name: Plex
-    url: https://plex.cond.dk
+    url: https://plex.cond.dk/web/
   - name: Qbit
     url: https://qbit.cond.dk
   - name: Vaultwarden

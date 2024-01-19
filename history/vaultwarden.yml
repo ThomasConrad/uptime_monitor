@@ -1,7 +1,7 @@
 url: https://warden.cond.dk
-status: up
-code: 200
-responseTime: 568
-lastUpdated: 2024-01-18T23:02:38.289Z
+status: down
+code: 521
+responseTime: 153
+lastUpdated: 2024-01-19T13:48:32.393Z
 startTime: 2023-06-20T15:47:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>

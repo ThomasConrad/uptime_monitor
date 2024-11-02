@@ -1,7 +1,7 @@
 url: https://plex.cond.dk/web/
-status: up
-code: 200
-responseTime: 792
-lastUpdated: 2024-11-02T20:39:48.029Z
+status: down
+code: 525
+responseTime: 10601
+lastUpdated: 2024-11-02T20:46:09.186Z
 startTime: 2023-06-20T15:47:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>

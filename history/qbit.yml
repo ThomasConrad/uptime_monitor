@@ -1,7 +1,7 @@
 url: https://qbit.cond.dk
-status: up
-code: 200
-responseTime: 401
-lastUpdated: 2026-03-07T23:03:25.796Z
+status: down
+code: 500
+responseTime: 601
+lastUpdated: 2026-03-08T15:20:56.304Z
 startTime: 2023-06-20T15:47:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>

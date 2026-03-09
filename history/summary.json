@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cond.dk.ico",
     "slug": "cond-dk",
     "status": "down",
-    "uptime": "79.01%",
+    "uptime": "78.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "52.57%",
-    "time": 950,
+    "uptimeYear": "52.47%",
+    "time": 951,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1258,
+    "timeYear": 1260,
     "dailyMinutesDown": {
-      "2026-03-08": 921,
+      "2026-03-09": 25,
+      "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -191,8 +192,7 @@
       "2025-08-28": 1092,
       "2025-07-15": 1157,
       "2025-07-14": 806,
-      "2025-04-23": 21,
-      "2025-03-09": 37
+      "2025-04-23": 21
     }
   },
   {
@@ -201,18 +201,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.cond.dk.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "55.70%",
+    "uptime": "55.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "14.45%",
-    "time": 551,
+    "uptimeYear": "14.34%",
+    "time": 550,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 572,
+    "timeYear": 570,
     "dailyMinutesDown": {
-      "2026-03-08": 921,
+      "2026-03-09": 25,
+      "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -525,8 +526,7 @@
       "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 861,
-      "2025-04-23": 20,
-      "2025-03-09": 32
+      "2025-04-23": 20
     }
   },
   {
@@ -535,18 +535,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/qbit.cond.dk.ico",
     "slug": "qbit",
     "status": "down",
-    "uptime": "93.70%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "97.59%",
+    "uptime": "93.67%",
+    "uptimeDay": "62.20%",
+    "uptimeWeek": "94.60%",
     "uptimeMonth": "82.44%",
-    "uptimeYear": "94.35%",
+    "uptimeYear": "94.25%",
     "time": 483,
-    "timeDay": 501,
-    "timeWeek": 534,
-    "timeMonth": 519,
+    "timeDay": 526,
+    "timeWeek": 497,
+    "timeMonth": 518,
     "timeYear": 497,
     "dailyMinutesDown": {
-      "2026-03-08": 0,
+      "2026-03-09": 25,
+      "2026-03-08": 519,
       "2026-03-01": 1163,
       "2026-02-28": 617,
       "2026-02-23": 18,
@@ -591,8 +592,7 @@
       "2025-08-28": 1191,
       "2025-07-15": 1157,
       "2025-07-14": 891,
-      "2025-04-23": 20,
-      "2025-03-09": 31
+      "2025-04-23": 20
     }
   },
   {
@@ -603,14 +603,14 @@
     "status": "up",
     "uptime": "95.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.60%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "95.93%",
     "uptimeYear": "97.76%",
     "time": 698,
-    "timeDay": 356,
-    "timeWeek": 462,
-    "timeMonth": 475,
-    "timeYear": 776,
+    "timeDay": 489,
+    "timeWeek": 439,
+    "timeMonth": 480,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2026-03-01": 1164,
       "2026-02-28": 617,
@@ -633,8 +633,7 @@
       "2025-08-28": 1168,
       "2025-07-15": 1157,
       "2025-07-14": 788,
-      "2025-04-23": 19,
-      "2025-03-09": 31
+      "2025-04-23": 19
     }
   },
   {
@@ -643,16 +642,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.cond.dk.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "89.50%",
+    "uptime": "89.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.60%",
-    "uptimeMonth": "88.89%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "90.14%",
     "uptimeYear": "83.76%",
-    "time": 691,
-    "timeDay": 737,
-    "timeWeek": 845,
-    "timeMonth": 954,
-    "timeYear": 790,
+    "time": 692,
+    "timeDay": 759,
+    "timeWeek": 794,
+    "timeMonth": 966,
+    "timeYear": 791,
     "dailyMinutesDown": {
       "2026-03-01": 1164,
       "2026-02-28": 617,
@@ -727,8 +726,7 @@
       "2025-08-28": 1160,
       "2025-07-15": 1157,
       "2025-07-14": 729,
-      "2025-04-23": 19,
-      "2025-03-09": 30
+      "2025-04-23": 19
     }
   }
 ]
